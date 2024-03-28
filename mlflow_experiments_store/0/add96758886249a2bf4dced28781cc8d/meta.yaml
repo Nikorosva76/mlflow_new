@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mlflow_new/mlflow_experiments_store/0/add96758886249a2bf4dced28781cc8d/artifacts
+end_time: 1711562644295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: add96758886249a2bf4dced28781cc8d
+run_name: clumsy-trout-153
+run_uuid: add96758886249a2bf4dced28781cc8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711562644266
+status: 3
+tags: []
+user_id: mle-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mlflow_new/mlflow_experiments_store/568528581116061968/6fccba3269c74fe5b449a33844831489/artifacts
+end_time: 1711562641745
+entry_point_name: ''
+experiment_id: '568528581116061968'
+lifecycle_stage: active
+run_id: 6fccba3269c74fe5b449a33844831489
+run_name: CBR_row_model_SorAndy
+run_uuid: 6fccba3269c74fe5b449a33844831489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711562641701
+status: 3
+tags: []
+user_id: mle-user

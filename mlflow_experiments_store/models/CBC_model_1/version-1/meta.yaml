@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1711628420672
+current_stage: None
+description: ''
+last_updated_timestamp: 1711628420672
+name: CBC_model_1
+run_id: 87f64f7363da46fc8d241c7a8491a262
+run_link: ''
+source: file:///home/mle-user/mlflow_new/mlflow_experiments_store/945480526051954103/87f64f7363da46fc8d241c7a8491a262/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 1

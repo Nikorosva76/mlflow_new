@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1711562747394
+current_stage: None
+description: ''
+last_updated_timestamp: 1711562747394
+name: CBR_row_model
+run_id: 2817ee4a2b78485ba867b214a132e169
+run_link: ''
+source: file:///home/mle-user/mlflow_new/mlflow_experiments_store/568528581116061968/2817ee4a2b78485ba867b214a132e169/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 1
